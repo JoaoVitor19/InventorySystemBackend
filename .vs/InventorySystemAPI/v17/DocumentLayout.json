@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,6 +59,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\SaleItem.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\SaleItem.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\SaleItem.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\SaleItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:05:06.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
@@ -67,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SaleItemsController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\SaleItemsController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\SaleItemsController.cs",
@@ -75,12 +96,11 @@
               "RelativeToolTip": "Presentation\\Controllers\\SaleItemsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:51:58.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T04:51:58.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SalesController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\SalesController.cs",
@@ -88,12 +108,11 @@
               "RelativeToolTip": "Presentation\\Controllers\\SalesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:51:51.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T04:51:51.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\UsersController.cs",
