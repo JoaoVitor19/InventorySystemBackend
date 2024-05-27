@@ -12,3 +12,16 @@ packages/
 node_modules/
 bower_components/
 vendor/
+/.vs/InventorySystemAPI/DesignTimeBuild
+/.vs/InventorySystemAPI/FileContentIndex
+/.vs/InventorySystemAPI/DesignTimeBuild
+/.vs/InventorySystemAPI/v17
+/Persistence/bin
+/Persistence/obj
+/Presentation/bin
+/Presentation/obj
+/Tests/bin
+/Tests/obj
+/Core/Domain/bin
+/Core/Application/obj
+/Core/Application/bin

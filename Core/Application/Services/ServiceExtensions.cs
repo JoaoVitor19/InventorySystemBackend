@@ -3,6 +3,7 @@ using System.Reflection;
 using FluentValidation;
 using MediatR;
 using CleanArchitecture.Application.Shared.Behavior;
+using Domain.Interfaces;
 
 namespace Application.Services
 {
@@ -17,6 +18,8 @@ namespace Application.Services
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+
+            services.AddScoped<IAuthenticationService, AuthenticationService>();
         }
     }
 }

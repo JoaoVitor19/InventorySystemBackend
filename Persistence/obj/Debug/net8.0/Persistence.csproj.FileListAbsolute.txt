@@ -21,3 +21,5 @@ C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Pe
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
