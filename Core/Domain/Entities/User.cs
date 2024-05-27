@@ -1,4 +1,6 @@
-﻿namespace Domain.Entities
+﻿using Domain.Enums;
+
+namespace Domain.Entities
 {
     public sealed class User : BaseEntity
     {
@@ -8,6 +10,7 @@
         public string? LastName { get; set; }
         public string? PictureUrl { get; set; }
         public bool IsActive { get; set; } = true;
+        public ProfileType ProfileType { get; set; }
         public DateTimeOffset? DateOfBirth { get; set; }
     }
 }

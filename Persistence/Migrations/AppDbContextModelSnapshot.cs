@@ -24,19 +24,21 @@ namespace Persistence.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Category")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("TEXT");
 
                     b.Property<DateTimeOffset>("DateCreated")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateDeleted")
+                    b.Property<DateTimeOffset>("DateDeleted")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateUpdated")
+                    b.Property<DateTimeOffset>("DateUpdated")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Description")
+                        .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("TEXT");
 
@@ -44,6 +46,7 @@ namespace Persistence.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("ImagePath")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("TEXT");
 
@@ -73,20 +76,22 @@ namespace Persistence.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("CustomerEmail")
+                        .IsRequired()
                         .HasMaxLength(256)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("CustomerName")
+                        .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
                     b.Property<DateTimeOffset>("DateCreated")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateDeleted")
+                    b.Property<DateTimeOffset>("DateDeleted")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateUpdated")
+                    b.Property<DateTimeOffset>("DateUpdated")
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("Discount")
@@ -121,14 +126,17 @@ namespace Persistence.Migrations
                     b.Property<DateTimeOffset>("DateCreated")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateDeleted")
+                    b.Property<DateTimeOffset>("DateDeleted")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateUpdated")
+                    b.Property<DateTimeOffset>("DateUpdated")
                         .HasColumnType("TEXT");
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("INTEGER");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("TEXT");
 
                     b.Property<Guid>("ProductId")
                         .HasColumnType("TEXT");
@@ -162,18 +170,18 @@ namespace Persistence.Migrations
                     b.Property<DateTimeOffset>("DateCreated")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateDeleted")
+                    b.Property<DateTimeOffset>("DateDeleted")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTimeOffset?>("DateOfBirth")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTimeOffset?>("DateUpdated")
+                    b.Property<DateTimeOffset>("DateUpdated")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasMaxLength(256)
+                        .HasMaxLength(50)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("FirstName")
@@ -198,14 +206,10 @@ namespace Persistence.Migrations
                     b.Property<string>("PictureUrl")
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("Profile")
+                    b.Property<int>("ProfileType")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("Email");
-
-                    b.HasIndex("Id");
 
                     b.ToTable("Users");
 
@@ -213,14 +217,16 @@ namespace Persistence.Migrations
                         new
                         {
                             Id = new Guid("84a011db-4484-4140-ad1d-2e879668418d"),
-                            DateCreated = new DateTimeOffset(new DateTime(2024, 5, 27, 3, 8, 15, 841, DateTimeKind.Unspecified).AddTicks(7865), new TimeSpan(0, 0, 0, 0, 0)),
+                            DateCreated = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            DateDeleted = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
+                            DateUpdated = new DateTimeOffset(new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), new TimeSpan(0, 0, 0, 0, 0)),
                             Email = "admin@admin.com",
                             FirstName = "Admin",
                             IsActive = true,
                             IsDeleted = false,
                             LastName = "Principal",
                             Password = "admin123",
-                            Profile = 0
+                            ProfileType = 0
                         });
                 });
 
