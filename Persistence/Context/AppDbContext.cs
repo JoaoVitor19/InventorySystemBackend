@@ -1,8 +1,6 @@
 ﻿using Domain.Entities;
-using Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Persistence.EntityConfiguration;
-using System.Linq.Expressions;
 
 namespace Persistence.Context
 {
@@ -21,8 +19,6 @@ namespace Persistence.Context
             modelBuilder.ApplyConfiguration(new ProductConfiguration());
             modelBuilder.ApplyConfiguration(new SaleConfiguration());
             modelBuilder.ApplyConfiguration(new SaleItemConfiguration());
-
-
         }
     }
 }

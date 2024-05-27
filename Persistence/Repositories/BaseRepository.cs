@@ -28,7 +28,8 @@ namespace Persistence.Repositories
         public void Delete(T entity)
         {
             entity.DateDeleted = DateTimeOffset.UtcNow;
-            Context.Remove(entity);
+            entity.IsDeleted = true;
+            //Context.Remove(entity);
         }
 
         public async Task<T> Get(Guid id, CancellationToken cancellationToken)

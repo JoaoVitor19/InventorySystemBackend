@@ -15,7 +15,11 @@ namespace Persistence
             var connectionString = configuration.GetConnectionString("Sqlite");
             services.AddDbContext<AppDbContext>(opt => opt.UseSqlite(connectionString));
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<ISaleRepository, SaleRepository>();
+            services.AddScoped<ISaleItemRepository, SaleItemRepository>();
         }
 
         public static ModelBuilder ApplySoftDeleteQueryFilter(this ModelBuilder modelBuilder)

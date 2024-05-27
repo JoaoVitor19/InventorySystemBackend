@@ -1,8 +1,8 @@
-﻿using Application.UseCases.CreateUser;
-using Application.UseCases.DeleteUser;
-using Application.UseCases.GetAllUser;
-using Application.UseCases.GetUser;
-using Application.UseCases.UpdateUser;
+﻿using Application.UseCases.Users.Commands.Create;
+using Application.UseCases.Users.Commands.Delete;
+using Application.UseCases.Users.Commands.Update;
+using Application.UseCases.Users.Querys.Get;
+using Application.UseCases.Users.Querys.GetAll;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -18,7 +18,7 @@ public class UsersController : ControllerBase
         _mediator = mediator;
     }
 
-    [HttpGet]
+    [HttpGet("GetAll")]
     public async Task<ActionResult<List<GetAllUserResponse>>> GetAll(CancellationToken cancellationToken)
     {
         var response = await _mediator.Send(new GetAllUserRequest(), cancellationToken);
