@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|solutionrelative:persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\persistence\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|solutionrelative:persistence\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\saleitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\saleitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +50,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 727,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISoftDelete.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\ISoftDelete.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\ISoftDelete.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\ISoftDelete.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\ISoftDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:13:33.192Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -58,7 +91,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:13:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Persistence\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\ServiceExtensions.cs",
+              "RelativeToolTip": "Persistence\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:12:49.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:11:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:11:33.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SaleItem.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\SaleItem.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Entities\\SaleItem.cs",
@@ -70,12 +155,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
@@ -83,12 +164,11 @@
               "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAwwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:52:06.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T04:52:06.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SaleItemsController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\SaleItemsController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\SaleItemsController.cs",
@@ -100,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SalesController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\SalesController.cs",
@@ -108,11 +188,12 @@
               "RelativeToolTip": "Presentation\\Controllers\\SalesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:51:51.479Z"
+              "WhenOpened": "2024-05-27T04:51:51.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\UsersController.cs",

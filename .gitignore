@@ -1,0 +1,14 @@
+.vs
+bin/
+obj/
+temp/
+*.suo
+*.user
+*.exe
+.vshost.exe
+*.vshost.*
+*.publishsettings
+packages/
+node_modules/
+bower_components/
+vendor/
