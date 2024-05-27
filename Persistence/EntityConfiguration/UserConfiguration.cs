@@ -1,6 +1,11 @@
 ﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Persistence.EntityConfiguration
 {
@@ -9,12 +14,9 @@ namespace Persistence.EntityConfiguration
         public void Configure(EntityTypeBuilder<User> builder)
         {
             builder.HasKey(x => x.Id);
-            builder.HasIndex(x => x.Id);
-            builder.HasIndex(x => x.Email);
-
             builder.Property(x => x.FirstName).HasMaxLength(25);
             builder.Property(x => x.LastName).HasMaxLength(25);
-            builder.Property(x => x.Email).HasMaxLength(256).IsRequired();
+            builder.Property(x => x.Email).HasMaxLength(50).IsRequired();
             builder.Property(x => x.Password).HasMaxLength(50).IsRequired();
 
             builder.HasData(
@@ -24,12 +26,9 @@ namespace Persistence.EntityConfiguration
                     FirstName = "Admin",
                     LastName = "Principal",
                     Email = "admin@admin.com",
-                    Password = "admin123",
-                    Profile = Domain.Enums.ProfileType.Admin,
-                    DateCreated = DateTime.UtcNow,
-                    IsActive = true,
-                    IsDeleted = false
-                });
+                    Password = "admin123"
+                }
+                );
         }
     }
 }

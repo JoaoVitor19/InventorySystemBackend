@@ -25,13 +25,6 @@ public class UsersController : ControllerBase
         return Ok(response);
     }
 
-    [HttpGet]
-    public async Task<ActionResult<List<GetUserResponse>>> Get(Guid id, CancellationToken cancellationToken)
-    {
-        var response = await _mediator.Send(new GetUserRequest(id), cancellationToken);
-        return Ok(response);
-    }
-
     [HttpPost]
     public async Task<IActionResult> Create(CreateUserRequest request)
     {
