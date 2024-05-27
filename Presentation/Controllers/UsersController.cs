@@ -1,7 +1,6 @@
 ﻿using Application.UseCases.CreateUser;
 using Application.UseCases.DeleteUser;
 using Application.UseCases.GetAllUser;
-using Application.UseCases.GetUser;
 using Application.UseCases.UpdateUser;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -22,13 +21,6 @@ public class UsersController : ControllerBase
     public async Task<ActionResult<List<GetAllUserResponse>>> GetAll(CancellationToken cancellationToken)
     {
         var response = await _mediator.Send(new GetAllUserRequest(), cancellationToken);
-        return Ok(response);
-    }
-
-    [HttpGet]
-    public async Task<ActionResult<List<GetUserResponse>>> Get(Guid id, CancellationToken cancellationToken)
-    {
-        var response = await _mediator.Send(new GetUserRequest(id), cancellationToken);
         return Ok(response);
     }
 
