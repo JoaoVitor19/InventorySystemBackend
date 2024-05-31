@@ -25,3 +25,9 @@ vendor/
 /Core/Domain/bin
 /Core/Application/obj
 /Core/Application/bin
+/.vs/InventorySystemAPI/v17/.suo
+/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/.vs/ProjectEvaluation/inventorysystemapi.metadata.v8.bin
+/.vs/ProjectEvaluation/inventorysystemapi.projects.v8.bin
+/.vs/ProjectEvaluation/inventorysystemapi.strings.v8.bin
