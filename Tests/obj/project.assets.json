@@ -5514,11 +5514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Tests\\Tests.csproj",
+      "projectUniqueName": "E:\\Meus Repositorios\\InventorySystemBackend\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Tests\\Tests.csproj",
+      "projectPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Tests\\obj\\",
+      "outputPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

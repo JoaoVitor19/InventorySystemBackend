@@ -1,7 +1,9 @@
-﻿namespace Domain.Interfaces
+﻿using Domain.Entities;
+
+namespace Domain.Interfaces
 {
     public interface IAuthenticationService
     {
-        Task<Token> GenerateToken(string email, string password);
+        Token GenerateToken(User user);
     }
 }

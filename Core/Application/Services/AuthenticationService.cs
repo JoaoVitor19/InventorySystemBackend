@@ -1,4 +1,5 @@
-﻿using Domain.Interfaces;
+﻿using Domain.Entities;
+using Domain.Interfaces;
 using System.Security.Authentication;
 
 public class AuthenticationService : IAuthenticationService
@@ -12,16 +13,8 @@ public class AuthenticationService : IAuthenticationService
         _jwtTokenGenerator = jwtTokenGenerator;
     }
 
-    public async Task<Token> GenerateToken(string email, string password)
+    public Token GenerateToken(User user)
     {
-        CancellationToken cancellation = CancellationToken.None;
-        var user = await _userRepository.GetByEmail(email, cancellation);
-
-        if (user == null || !user.Password.Equals(password))
-        {
-            throw new AuthenticationException("Invalid username or password");
-        }
-
         var token = _jwtTokenGenerator.GenerateToken(user.Email, user.ProfileType);
         return token;
     }

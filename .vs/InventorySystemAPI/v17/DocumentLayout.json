@@ -1,42 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\",
+  "WorkspaceRootPath": "E:\\Meus Repositorios\\InventorySystemBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|e:\\meus repositorios\\inventorysystembackend\\persistence\\entityconfiguration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfiguration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|e:\\meus repositorios\\inventorysystembackend\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|e:\\meus repositorios\\inventorysystembackend\\persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\application\\usecases\\products\\commands\\create\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\usecases\\products\\commands\\create\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|e:\\meus repositorios\\inventorysystembackend\\core\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|e:\\meus repositorios\\inventorysystembackend\\core\\domain\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|e:\\meus repositorios\\inventorysystembackend\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28F14DC4-C146-4F18-BDF0-3017D904530A}|Presentation\\InventorySystem.API.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\persistence\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCE3BB3-D528-4F68-A86E-AD2E31FE3241}|Persistence\\Persistence.csproj|solutionrelative:persistence\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|e:\\meus repositorios\\inventorysystembackend\\core\\application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\repositorios\\inventorysystembackend\\core\\application\\services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E978332-C323-49AF-A19E-EC2DA530B135}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|e:\\meus repositorios\\inventorysystembackend\\core\\domain\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35946ECF-CD89-4996-9D21-B9E4331DDF44}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,34 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 727,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Core\\Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:36:30.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SaleItem.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\SaleItem.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\SaleItem.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\SaleItem.cs",
-              "RelativeToolTip": "Core\\Domain\\Entities\\SaleItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:36:06.46Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -95,98 +65,107 @@
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Sale.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\Sale.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Sale.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\Sale.cs",
-              "RelativeToolTip": "Core\\Domain\\Entities\\Sale.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:35:18.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\UseCases\\Products\\Commands\\Create\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\UseCases\\Products\\Commands\\Create\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\UseCases\\Products\\Commands\\Create\\CreateProductHandler.cs",
-              "RelativeToolTip": "Core\\Application\\UseCases\\Products\\Commands\\Create\\CreateProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:34:23.135Z",
+              "WhenOpened": "2024-06-19T20:26:22.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAAIAAAA",
+              "Title": "ISoftDelete.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\ISoftDelete.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\ISoftDelete.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\ISoftDelete.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\ISoftDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:33:29.248Z",
+              "WhenOpened": "2024-06-19T20:25:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:24:42.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Program.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\Program.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Presentation\\Program.cs",
               "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAADAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:29:32.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JwtGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\JwtGenerator.cs",
-              "RelativeDocumentMoniker": "Persistence\\JwtGenerator.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Persistence\\JwtGenerator.cs",
-              "RelativeToolTip": "Persistence\\JwtGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:29:19.005Z",
+              "WhenOpened": "2024-06-19T20:23:56.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "Core\\Application\\Services\\AuthenticationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Core\\Domain\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:29:13.858Z",
+              "WhenOpened": "2024-06-19T20:15:46.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Services\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Services\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Services\\ServiceExtensions.cs",
-              "RelativeToolTip": "Core\\Application\\Services\\ServiceExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T06:29:10.434Z",
+              "WhenOpened": "2024-06-19T17:33:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Core\\Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:49:43.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "E:\\Meus Repositorios\\InventorySystemBackend\\Persistence\\EntityConfiguration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfiguration\\UserConfiguration.cs",
+              "ToolTip": "E:\\Meus Repositorios\\InventorySystemBackend\\Persistence\\EntityConfiguration\\UserConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfiguration\\UserConfiguration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:43:46.973Z",
               "EditorCaption": ""
             }
           ]
@@ -201,15 +180,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

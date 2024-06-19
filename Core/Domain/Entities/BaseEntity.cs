@@ -3,9 +3,9 @@
     public abstract class BaseEntity : ISoftDelete
     {
         public Guid Id { get; set; }
-        public DateTimeOffset DateCreated { get; set; }
-        public DateTimeOffset DateUpdated { get; set; }
-        public DateTimeOffset DateDeleted { get; set; }
+        public DateTime DateCreated { get; set; }
+        public DateTime? DateUpdated { get; set; }
+        public DateTime? DateDeleted { get; set; }
         public bool IsDeleted { get; set; }
 
     }

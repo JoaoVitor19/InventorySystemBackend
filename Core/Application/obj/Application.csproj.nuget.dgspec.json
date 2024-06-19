@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj": {}
+    "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj": {
+    "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
+        "projectPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\obj\\",
+        "outputPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj"
+              "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj": {
+    "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\obj\\",
+        "outputPath": "E:\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
