@@ -6,6 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
 using Domain.Interfaces;
+using InventorySystem.API.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +16,6 @@ builder.Services.ConfigureApplicationApp();
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IJwtTokenGenerator>(provider =>
 {
@@ -25,38 +25,12 @@ builder.Services.AddSingleton<IJwtTokenGenerator>(provider =>
     return new JwtTokenGenerator(issuer, audience, secretKey);
 });
 
-builder.Services.AddSwaggerGen(option =>
-{
-    option.SwaggerDoc("v1", new OpenApiInfo { Title = "Inventory API", Version = "v1" });
-    option.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
-    {
-        In = ParameterLocation.Header,
-        Description = "Please enter a valid token",
-        Name = "Authorization",
-        Type = SecuritySchemeType.Http,
-        BearerFormat = "JWT",
-        Scheme = "Bearer"
-    });
-    option.AddSecurityRequirement(new OpenApiSecurityRequirement
-    {
-        {
-            new OpenApiSecurityScheme
-            {
-                Reference = new OpenApiReference
-                {
-                    Type=ReferenceType.SecurityScheme,
-                    Id="Bearer"
-                }
-            },
-            new string[]{}
-        }
-    });
-});
-
-
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
+
+CorsPolicyExtensions.ConfigureCorsPolicy(builder.Services);
+SwaggerConfigExtensions.SwaggerConfig(builder.Services, app);
 
 CreateDatabase(app);
 
@@ -65,12 +39,7 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
-app.UseSwagger();
-app.UseSwaggerUI();
 app.MapControllers();
-
-app.UseCors();
-
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();

@@ -23,3 +23,23 @@ C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Pe
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\ref\Persistence.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Persistence.deps.json
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Persistence.dll
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Persistence.pdb
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Application.dll
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Domain.dll
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Application.pdb
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\bin\Debug\net8.0\Domain.pdb
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.dll
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.pdb
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+E:\Pessoais\Meus Repositorios\InventorySystemBackend\Persistence\obj\Debug\net8.0\ref\Persistence.dll

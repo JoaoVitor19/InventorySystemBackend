@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pXpV7WdcqY=",
+  "dgSpecHash": "xK8tdQPpJaY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Presentation\\InventorySystem.API.csproj",
+  "projectFilePath": "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Presentation\\InventorySystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",

@@ -370,11 +370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
+      "projectPath": "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Application\\obj\\",
+      "outputPath": "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -396,8 +396,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj"
+            "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj"
             }
           }
         }
@@ -446,7 +446,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
