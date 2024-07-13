@@ -10,6 +10,21 @@ C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Co
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+<<<<<<< Updated upstream
+=======
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\bin\Debug\net8.0\Domain.dll
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.dll
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Meus Repositorios\InventorySystemBackend\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+>>>>>>> Stashed changes
 E:\Pessoais\Meus Repositorios\InventorySystemBackend\Core\Domain\bin\Debug\net8.0\Domain.deps.json
 E:\Pessoais\Meus Repositorios\InventorySystemBackend\Core\Domain\bin\Debug\net8.0\Domain.dll
 E:\Pessoais\Meus Repositorios\InventorySystemBackend\Core\Domain\bin\Debug\net8.0\Domain.pdb

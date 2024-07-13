@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "6HBJTIDfYro=",
+  "dgSpecHash": "j4R7Z9i9aVY=",
   "success": true,
   "projectFilePath": "E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Pessoais\\Meus Repositorios\\InventorySystemBackend\\Core\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
